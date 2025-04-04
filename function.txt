@@ -1,0 +1,54 @@
+def my_function(food):
+  for x in food:
+    print(x)
+
+fruits = ["apple", "banana", "cherry"]
+
+my_function(fruits)
+
+output:
+apple
+ 
+banana
+cherry
+
+
+=== Code Execution Successful ===
+
+def my_function(vegetables):
+  for x in vegetables:
+    print(x)
+fruits = ["drumstick", "brinjal", "carrot"]
+my_function(fruits)
+
+output:
+drumstick
+
+brinjal 
+
+carrot
+
+
+=== Code Execution Successful ===
+
+def my_function(vehicles):
+  for x in vehicles:
+    print(x)
+fruits = ["car","bus","train","scooty","lorry"]
+my_function(fruits)
+
+output:
+car
+
+bus
+
+train
+
+scooty
+
+lorry
+
+
+=== Code Execution Successful ===
+
+
